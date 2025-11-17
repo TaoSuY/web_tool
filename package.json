@@ -1,0 +1,13 @@
+{
+  "name": "webtool",
+  "version": "2.0.0",
+  "description": "web导航 - 基于CloudFlare Workers",
+  "main": "index.html",
+  "keywords": [
+    "cloudflare-workers",
+    "web-tool",
+    "notification",
+    "lunar-calendar"
+  ],
+  "license": "MIT"
+}

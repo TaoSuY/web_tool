@@ -19,15 +19,9 @@
 - 部署分支：gh-pages
 - 构建过程包括文件验证和.nojekyll文件创建
 
-#### 错误处理
-如果遇到部署错误（如Git错误代码128），请检查：
-1. GitHub仓库的Actions权限设置
-2. GitHub Pages是否已启用
-3. 仓库是否具有足够的权限推送gh-pages分支
-
 ## 在线预览
 
-https://zxzv.dpdns.org/
+项目已成功部署到GitHub Pages，可通过仓库设置中的GitHub Pages链接访问。
 
 
 ## 二次开发
@@ -42,7 +36,5 @@ https://zxzv.dpdns.org/
 - https://web-tool-omega.vercel.app/
 
 - https://web-a55.pages.dev/
-
-- https://web.gitapp.cn/
 
 

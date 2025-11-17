@@ -16,11 +16,10 @@ If you want to modify the URL, you can modify index.html.
 If you want to modify the about page, you can modify the index page in about folder.
 
 
-## References
+## Reference
 
 - https://web-tool-omega.vercel.app/
 
 - https://web-a55.pages.dev/
-- https://fktool.com
 
 Have a nice day!

@@ -3,11 +3,16 @@
   "version": "2.0.0",
   "description": "web导航 - 基于CloudFlare Workers",
   "main": "index.html",
+  "homepage": ".",
   "keywords": [
     "cloudflare-workers",
     "web-tool",
     "notification",
     "lunar-calendar"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js",
+    "deploy": "echo 'Deployment handled by GitHub Actions'"
+  }
 }

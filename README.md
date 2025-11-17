@@ -13,6 +13,18 @@
 2. GitHub Actions会自动构建并部署到GitHub Pages
 3. 访问 `https://<your-username>.github.io/<repository-name>/` 查看部署结果
 
+#### 部署流程说明
+- 当推送到main分支时自动触发部署
+- 使用GitHub Pages进行静态网站托管
+- 部署分支：gh-pages
+- 构建过程包括文件验证和.nojekyll文件创建
+
+#### 错误处理
+如果遇到部署错误（如Git错误代码128），请检查：
+1. GitHub仓库的Actions权限设置
+2. GitHub Pages是否已启用
+3. 仓库是否具有足够的权限推送gh-pages分支
+
 ## 在线预览
 
 https://zxzv.dpdns.org/

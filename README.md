@@ -4,8 +4,14 @@
 
 ## 部署步骤
 
+### 传统部署方式
 将全部文件复制到服务器，入口文件是index.html
 
+### GitHub自动部署
+项目已配置GitHub Actions自动部署：
+1. 将代码推送到GitHub仓库
+2. GitHub Actions会自动构建并部署到GitHub Pages
+3. 访问 `https://<your-username>.github.io/<repository-name>/` 查看部署结果
 
 ## 在线预览
 
